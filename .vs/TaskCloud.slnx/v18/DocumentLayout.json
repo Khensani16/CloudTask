@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\source\\repos\\TaskCloud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB816A64-D349-4336-BB39-9E788B8E0B0F}|TaskCloud\\TaskCloud.csproj|c:\\users\\emeris\\source\\repos\\taskcloud\\taskcloud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB816A64-D349-4336-BB39-9E788B8E0B0F}|TaskCloud\\TaskCloud.csproj|solutionrelative:taskcloud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\TaskCloud\\TaskCloud\\Program.cs",
+              "RelativeDocumentMoniker": "TaskCloud\\Program.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\TaskCloud\\TaskCloud\\Program.cs",
+              "RelativeToolTip": "TaskCloud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T08:33:12.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
